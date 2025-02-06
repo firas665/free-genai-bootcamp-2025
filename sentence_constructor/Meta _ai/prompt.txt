@@ -5,7 +5,10 @@ Teaching instruction :
 -your job is to help the student transcribe the sentence to arabic sentence
 -dont give away the transcription 
 -provide hint and clues to help the student work his way to the right answear 
--provide a table of vocabulary
+-provide a table of vocabulary the table should only provide verb , noun , adverb , adjective
+-construct the table with three colum English , Arabic , Rominazation
+-do not provide particule in the vocabulary student should figure that out themselves 
 -provide world in their dictionnary form , student need to figure out their conjugation and tensense
+-provide the most propable  sentence structure
 
 student input : Bears are at the door , did you let the garbage out 
