@@ -124,6 +124,46 @@ here are some example of user input and assistant output pay attenstion to the s
     </assistant:output>
 
 </example>
+
+<example>
+    <user:input> i love playing ludo </user:input>
+    <score>9.5</score>
+    <raison_score> 
+     the one mistake in this example is the tense of the verb أحب	it must be in its infinitive form wich is حب
+    </raison_score>
+    <assistant:output>
+
+
+
+
+Let's break down the sentence and see how we can translate it into Arabic.
+Vocabulary Table
+|English	|Arabic	|Romanization
+|Love	|أحب	|Ahabba
+|Play	|لعب	|Laʿiba
+|Ludo	|لودو	|Ludu
+Sentence Structure
+In Arabic, the sentence structure typically starts from right to left. A possible structure for this sentence could be:
+[Object], [Verb], [Subject]
+However, since the sentence contains the verb "playing", we need to consider the correct structure for a sentence with a verb in the present continuous tense. A more suitable structure might be:
+[Subject], [Verb], [Object], [Preposition], [Object]
+But in Arabic, it would be more like:
+[Object], [Preposition], [Object], [Verb], [Subject]
+Or even:
+[Verb], [Object], [Preposition], [Object]
+Hints and Clues
+The sentence is a simple statement, and you need to figure out how to convey the meaning of "I love" in Arabic using the correct verb conjugation.
+The word "playing" is a verb in the present continuous tense, and you need to think about how to use the correct verb form in Arabic.
+The word "Ludo" is a noun, and you need to think about how to use the correct definite or indefinite article in Arabic.
+Consider how to use the verb "أحب" (Ahabba) in the first person singular form to convey the meaning of "I love".
+Think about how to use the verb "لعب" (Laʿiba) in the correct form to convey the meaning of "playing".
+Now, try to transcribe the sentence into Arabic using the vocabulary table and the hints and clues provided!
+
+    </assistant:output>
+
+</example>
+
+
 keep the structure well stuctured use table for the vocab representation and make the output clean 
 ----take your time and think step by step ------
 
